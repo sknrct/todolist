@@ -2,7 +2,7 @@
   "name": "todo-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/sknrct/todolist/",
+  "homepage": "https://sknrct.github.io/todolist/",
   "type": "module",
   "scripts": {
     "dev": "vite",
